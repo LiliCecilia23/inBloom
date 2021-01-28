@@ -5,16 +5,16 @@
 :mushroom: [Our Repo](https://github.com/ashlinhanson/inBloom)
 
 ## 🌿 Usage Instructions:
-* Getting Started
+### Getting Started
 From our home page, log in with your Google account. You will then be taken to the garden page. 
 
-* Growing your Garden
+### Growing your Garden
 To add plants to your garden, start typing the name of the desired plant in the search bar on the right side of the screen. Search results will populate, add plants directly from those results with the `plant it!` button, or find out more information on each plant with the `more info` button. You can also add the plant from within the modal that populates when the `more info` button is selected. From here, you can add more plants by repeating this process, or you can navigate back to your garden by selecting the `back to garden` button on the top left of the navigation bar. Now you will be able to see all the plants you have added to your garden!
 
-* Deleting Plants
+### Deleting Plants
 To delete a plant, select the `delete plant` button on the plant you'd like to delete. The page will automatically re-render with your updated garden.
 
-* Logging Out
+### Logging Out
 To logout from your inBloom profile, click the Google Logout button on the top right side of the navbar.
 
 ## :mushroom: Installation Instructions:
